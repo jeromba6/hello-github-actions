@@ -8,4 +8,4 @@ jobs:
     steps:
       - name: Run command
         run: |
-          docker run -it hello-world
+          docker run hello-world
